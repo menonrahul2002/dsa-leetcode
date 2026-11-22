@@ -5,7 +5,7 @@ https://neetcode.io/practice/practice/neetcode150
 
 ## Progress
 
-**Solved: 1/ 150**
+**Solved: 2/ 150**
 
 ## Problems
 
@@ -14,5 +14,7 @@ https://neetcode.io/practice/practice/neetcode150
 | # | Problem            | Link                                                          |
 |---|--------------------|---------------------------------------------------------------|
 | 1 | Contains Duplicate | https://leetcode.com/problems/contains-duplicate/description/ |
+| 2 | Valid Anagram      | https://leetcode.com/problems/valid-anagram/description/      |
+
 
 
